@@ -6,7 +6,6 @@ mu-mei  # 130 failing: log lacks target line x129, other x1
 Amahane-Hikari  # 30 failing: no build.log x30
 WorldianAI  # 19 failing: malformed transcript x19
 CubeJerry  # 16 failing: malformed transcript x16
-galakurpi  # 13 failing: cached target without kernel-replay.json x13
 jjjhenriksen  # 11 failing: no build.log x11
 TOTOGT  # 11 failing: malformed transcript x11
 BouquetAntoine  # 6 failing: cached target without kernel-replay.json x6
